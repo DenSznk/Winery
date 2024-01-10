@@ -1,0 +1,14 @@
+.item {
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin-bottom: 10px;
+}
+
+.item img {
+    max-width: 100px;
+    max-height: 100px;
+}
+
+.item .price, .item .name, .item .rating {
+    margin-bottom: 10px;
+}
